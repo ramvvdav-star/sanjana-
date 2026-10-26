@@ -1,0 +1,6 @@
+{
+  "name": "RescueMesh AI Tethered Drone 3D",
+  "description": "High-fidelity realistic 3D model and interactive viewer of the RescueMesh AI Communication Relay Quadcopter Drone with reinforced bottom tether cable.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
